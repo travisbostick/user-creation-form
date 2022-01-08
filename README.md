@@ -25,3 +25,15 @@ To start application:
 To visit app:
 
 `localhost:3000`
+
+## Tools used
+
+- React
+- TypeScript
+- TailwindCSS
+- Axios
+
+Additional packages:
+
+- `react-fade-in`
+- `react-animate-height`
