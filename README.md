@@ -12,7 +12,7 @@ The choices for occupation and state are supplied from an API.
 
 ## Installation and setup
 
-Clone this repository. You will need `node` and `npm` installed globally. Instructions to install [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+Clone this repository. You will need `node` and `npm` installed globally. Instructions to install those [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
 Installation:
 
