@@ -1,0 +1,9 @@
+{
+  "short_name": "User Creation Form",
+  "name": "User Creation Form Exercise",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
